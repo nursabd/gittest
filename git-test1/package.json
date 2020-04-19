@@ -1,0 +1,25 @@
+{
+  "name": "nurs",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.html",
+  "scripts": {
+    "start": "nmp run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+
+  },
+  "author": "Nurs",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NASAKZ07/project1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NASAKZ07/project1/issues"
+  },
+  "homepage": "https://github.com/NASAKZ07/project1#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
