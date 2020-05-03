@@ -50,12 +50,16 @@ public class HomeController {
             OpenContact("/sample/sample.fxml");
 
 
+
         });
         ContactButton.setOnAction(event -> {
-            OpenContact("/sample/cleanservice.fxml");
+            Open("/sample/cleanservice.fxml");
         });
         AddButton.setOnAction(event -> {
             OpenContact("/client/AddService.fxml");
+        });
+        CleanButton.setOnAction(event -> {
+            Open("/cleanbutton/cleanservice.fxml");
         });
 
 
@@ -66,6 +70,21 @@ public class HomeController {
         OptionButton.getScene().getWindow().hide();
         FXMLLoader loader = new FXMLLoader();
         loader.setLocation(getClass().getResource(p));
+        try {
+            loader.load();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        Parent root = loader.getRoot();
+        Stage stage = new Stage();
+        stage.setScene(new Scene(root));
+        stage.show();
+
+    }
+    private void Open(String a) {
+        OptionButton.getScene().getWindow().hide();
+        FXMLLoader loader = new FXMLLoader();
+        loader.setLocation(getClass().getResource(a));
         try {
             loader.load();
         } catch (IOException e) {

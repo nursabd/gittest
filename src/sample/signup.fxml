@@ -17,7 +17,7 @@
             <AnchorPane layoutX="-2.0" layoutY="-123.0" prefHeight="408.0" prefWidth="17.0" style="-fx-background-color: #0993e2;" />
             <AnchorPane layoutX="686.0" layoutY="-123.0" prefHeight="454.0" prefWidth="17.0" style="-fx-background-color: #0993e2;" />
             <AnchorPane layoutX="-2.0" layoutY="284.0" prefHeight="47.0" prefWidth="702.0" style="-fx-background-color: #0993e2;" />
-            <Button fx:id="SignUpButton" layoutX="290.0" layoutY="195.0" mnemonicParsing="false" prefHeight="11.0" prefWidth="88.0" style="-fx-background-color: #ffffff;" text="Next" textFill="#0993e2" textOverrun="CLIP">
+            <Button fx:id="SignUpButton" layoutX="290.0" layoutY="174.0" mnemonicParsing="false" prefHeight="11.0" prefWidth="88.0" style="-fx-background-color: #ffffff;" text="Next" textFill="#0993e2" textOverrun="CLIP">
                <font>
                   <Font name="SimSun-ExtB" size="24.0" />
                </font>

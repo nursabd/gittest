@@ -54,6 +54,7 @@ public class SignUpController {
 
 
 
+
         });
 
 
@@ -81,6 +82,20 @@ public class SignUpController {
     }
 
     private void OpenNew(String s) {
+        SignUpButton.getScene().getWindow().hide();
+        FXMLLoader loader = new FXMLLoader();
+        loader.setLocation(getClass().getResource(s));
+        try {
+            loader.load();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        Parent root = loader.getRoot();
+        Stage stage = new Stage();
+        stage.setScene(new Scene(root));
+        stage.show();
+    }
+    private void Open(String s) {
         SignUpButton.getScene().getWindow().hide();
         FXMLLoader loader = new FXMLLoader();
         loader.setLocation(getClass().getResource(s));

@@ -10,10 +10,10 @@
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane id="AnchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="534.0" prefWidth="1154.0" style="-fx-background-color: #0993e2;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="client.AddServiceController">
+<AnchorPane id="AnchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="536.0" prefWidth="1149.0" style="-fx-background-color: #0993e2;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="client.AddServiceController">
    <children>
       <!-- Таблица в которую мы будем выводит наш pojo -->
-      <TableView fx:id="tableServices" layoutX="335.0" layoutY="52.0" prefHeight="462.0" prefWidth="800.0">
+      <TableView fx:id="tableServices" layoutX="313.0" layoutY="58.0" prefHeight="462.0" prefWidth="800.0">
          <columns>
             <!-- Колонки таблицы -->
             <TableColumn fx:id="idservice" prefWidth="69.0" text="№" />
@@ -22,7 +22,7 @@
             <TableColumn fx:id="address" prefWidth="339.0" text="Address" />
          </columns>
       </TableView>
-      <Label layoutX="525.0" layoutY="14.0" text="List all service staff:" textFill="WHITE">
+      <Label layoutX="575.0" layoutY="15.0" text="List all service staff:" textFill="WHITE">
          <font>
             <Font name="Verdana" size="24.0" />
          </font>
@@ -51,6 +51,6 @@
          </children>
       </AnchorPane>
       <Separator layoutX="269.0" layoutY="4.0" orientation="VERTICAL" prefHeight="416.0" prefWidth="6.0" />
-      <Button fx:id="OptionButton" layoutX="916.0" layoutY="14.0" mnemonicParsing="false" prefHeight="21.0" prefWidth="71.0" style="-fx-background-color: #ffffff;" text="Exit" textFill="#0993e2" />
+      <Button fx:id="OptionButton" layoutX="1042.0" layoutY="14.0" mnemonicParsing="false" prefHeight="21.0" prefWidth="71.0" style="-fx-background-color: #ffffff;" text="Back" textFill="#0993e2" />
    </children>
 </AnchorPane>
