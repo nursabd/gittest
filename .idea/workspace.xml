@@ -2,12 +2,63 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="SECOND COMMIT">
+      <change afterPath="$PROJECT_DIR$/out/production/CleanService/sample/CleanService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CleanService/sample/HomeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CleanService/server/ChatApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CleanService/server/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CleanService/server/NetworkConnection$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CleanService/server/NetworkConnection$ConnectionThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CleanService/server/NetworkConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CleanService/server/Server.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CleanService/server/server.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CleanService/whatsservice/ChatApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CleanService/whatsservice/Server.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CleanService/whatsservice/Stafff.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CleanService/whatsservice/TCPConnection$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CleanService/whatsservice/TCPConnection$ConnectionThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CleanService/whatsservice/TCPConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CleanService/whatsservice/client.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/ChatApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/NetworkConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/server.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/whatsservice/ChatApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/whatsservice/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/whatsservice/Stafff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/whatsservice/TCPConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/whatsservice/client.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gittest" beforeDir="false" afterPath="$PROJECT_DIR$/gittest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CleanService/cleanbutton/AddController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CleanService/cleanbutton/AddController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CleanService/sample/MainPageController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CleanService/sample/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CleanService/sample/SignUpController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CleanService/sample/SignUpController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CleanService/sample/TCPConnection$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CleanService/sample/TCPConnection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CleanService/sample/TCPConnectionListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CleanService/sample/cleanservice.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CleanService/sample/cleanservice.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CleanService/sample/homepage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CleanService/sample/homepage.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CleanService/serviceapp/CleanService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CleanService/serviceapp/HomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cleanbutton/AddController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cleanbutton/AddController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/MainPageController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/Server.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/SignUpController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/SignUpController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/TCPConnection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/TCPConnectionListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/cleanservice.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/cleanservice.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/homepage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/homepage.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/serviceapp/CleanService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/CleanService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/serviceapp/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/HomeController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="144" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -56,9 +107,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="FxmlFile" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="FxmlFile" />
       </list>
     </option>
   </component>
@@ -101,18 +152,25 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dynamic.classpath" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/server" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\CleanService\src\whatsservice" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\CleanService\src\server" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="sockets" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Server (2)">
+  <component name="RunManager" selected="Application.ChatApp">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -138,6 +196,34 @@
       <Host>localhost</Host>
       <Port>5050</Port>
     </configuration>
+    <configuration name="ChatApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.ChatApp" />
+      <module name="CleanService" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChatApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="whatsservice.ChatApp" />
+      <module name="CleanService" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="whatsservice.Stafff" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Customer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="client.Customer" />
       <module name="CleanService" />
@@ -158,7 +244,7 @@
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="serviceapp.*" />
+          <option name="PATTERN" value="sample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,41 +268,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Server (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sample.Server" />
       <module name="CleanService" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="sample.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="client.Server" />
-      <module name="CleanService" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="client.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ServiceMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="client.ServiceMain" />
-      <module name="CleanService" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="client.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -263,11 +321,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChatApp" />
+        <item itemvalue="Application.ChatApp (1)" />
         <item itemvalue="Application.Server (2)" />
         <item itemvalue="Application.Server (1)" />
         <item itemvalue="Application.Customer" />
-        <item itemvalue="Application.ServiceMain" />
-        <item itemvalue="Application.Server" />
       </list>
     </recent_temporary>
   </component>
@@ -316,14 +374,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="702" y="223" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1588348884629" />
-    <state x="985" y="114" key="#com.intellij.ide.util.MemberChooser" timestamp="1588351332113">
+    <state x="985" y="114" key="#com.intellij.ide.util.MemberChooser" timestamp="1588615628345">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="985" y="114" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1588351332113" />
-    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588251400042">
+    <state x="985" y="114" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1588615628345" />
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588617911568">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1588251400042" />
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1588617911568" />
     <state x="435" y="11" key="CommitChangelistDialog2" timestamp="1588500858118">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -356,38 +414,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="451" y="157" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588176850755" />
-    <state width="976" height="133" key="GridCell.Tab.0.bottom" timestamp="1588500828411">
+    <state width="1067" height="133" key="GridCell.Tab.0.bottom" timestamp="1588620106780">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="976" height="133" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588500828411" />
-    <state width="976" height="133" key="GridCell.Tab.0.center" timestamp="1588500828407">
+    <state width="1067" height="133" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588620106780" />
+    <state width="1067" height="133" key="GridCell.Tab.0.center" timestamp="1588620106780">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="976" height="133" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588500828407" />
-    <state width="976" height="133" key="GridCell.Tab.0.left" timestamp="1588500828407">
+    <state width="1067" height="133" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588620106780" />
+    <state width="1067" height="133" key="GridCell.Tab.0.left" timestamp="1588620106780">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="976" height="133" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588500828407" />
-    <state width="976" height="133" key="GridCell.Tab.0.right" timestamp="1588500828407">
+    <state width="1067" height="133" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588620106780" />
+    <state width="1067" height="133" key="GridCell.Tab.0.right" timestamp="1588620106780">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="976" height="133" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588500828407" />
-    <state width="1082" height="237" key="GridCell.Tab.1.bottom" timestamp="1587914916568">
+    <state width="1067" height="133" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588620106780" />
+    <state width="1223" height="236" key="GridCell.Tab.1.bottom" timestamp="1588617541868">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1082" height="237" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587914916568" />
-    <state width="1082" height="237" key="GridCell.Tab.1.center" timestamp="1587914916568">
+    <state width="1223" height="236" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588617541868" />
+    <state width="1223" height="236" key="GridCell.Tab.1.center" timestamp="1588617541868">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1082" height="237" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587914916568" />
-    <state width="1082" height="237" key="GridCell.Tab.1.left" timestamp="1587914916568">
+    <state width="1223" height="236" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1588617541868" />
+    <state width="1223" height="236" key="GridCell.Tab.1.left" timestamp="1588617541867">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1082" height="237" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587914916568" />
-    <state width="1082" height="237" key="GridCell.Tab.1.right" timestamp="1587914916568">
+    <state width="1223" height="236" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1588617541867" />
+    <state width="1223" height="236" key="GridCell.Tab.1.right" timestamp="1588617541868">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1082" height="237" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587914916568" />
+    <state width="1223" height="236" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1588617541868" />
     <state x="227" y="0" key="SettingsEditor" timestamp="1587306294499">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -396,18 +454,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="200" height="160" key="TextEditor.userName/0.0.1536.824@0.0.1536.824" timestamp="1588177591021" />
-    <state x="593" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1588498647214">
+    <state x="593" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1588608582011">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="593" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1588498647214" />
+    <state x="593" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1588608582011" />
     <state x="417" y="340" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588500994161">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="417" y="340" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1588500994161" />
-    <state x="349" y="115" key="new project wizard" timestamp="1588365621891">
+    <state x="349" y="115" key="new project wizard" timestamp="1588587637299">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="349" y="115" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1588365621891" />
+    <state x="349" y="115" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1588587637299" />
     <state x="720" y="37" key="refactoring.ChangeSignatureDialog" timestamp="1588354093269">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -420,5 +478,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="642" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1587306324406" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CleanService$ServiceChat.ic" NAME="ServiceChat Coverage Results" MODIFIED="1588617496353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>whatsservice.*</FILTER>
+    </SUITE>
   </component>
 </project>

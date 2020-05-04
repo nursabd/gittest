@@ -1,4 +1,4 @@
-package serviceapp;
+package sample;
 
 
 import java.io.IOException;
@@ -9,12 +9,7 @@ import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
-import javafx.scene.control.Menu;
-import javafx.scene.control.MenuBar;
-import javafx.scene.control.MenuItem;
-import javafx.scene.layout.BorderPane;
 import javafx.stage.Stage;
-import javafx.stage.Window;
 import sample.Main;
 
 public class HomeController {
@@ -61,7 +56,9 @@ public class HomeController {
         CleanButton.setOnAction(event -> {
             Open("/cleanbutton/cleanservice.fxml");
         });
-
+        HistoryButton.setOnAction(event -> {
+            Open("/server/server.fxml");
+        });
 
 
     }
