@@ -61,6 +61,10 @@ public class AddController {
         ListButton.setOnAction(event -> {
             OpenContact("/client/AddService.fxml");
         });
+        HistoryButton.setOnAction(event -> {
+            OpenContact("/notes/notes.fxml");
+        });
+
 
 
     }

@@ -65,6 +65,9 @@ public class AddServiceController {
         OptionButton.setOnAction(event -> {
             OpenContact("/sample/homepage.fxml");
         });
+        HistoryButton.setOnAction(event -> {
+            OpenContact("/notes/notes.fxml");
+        });
 
     }
 

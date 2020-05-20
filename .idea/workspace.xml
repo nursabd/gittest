@@ -2,55 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="SECOND COMMIT">
-      <change afterPath="$PROJECT_DIR$/out/production/CleanService/sample/CleanService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CleanService/sample/HomeController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CleanService/server/ChatApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CleanService/server/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CleanService/server/NetworkConnection$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CleanService/server/NetworkConnection$ConnectionThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CleanService/server/NetworkConnection.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CleanService/server/Server.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CleanService/server/server.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CleanService/whatsservice/ChatApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CleanService/whatsservice/Server.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CleanService/whatsservice/Stafff.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CleanService/whatsservice/TCPConnection$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CleanService/whatsservice/TCPConnection$ConnectionThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CleanService/whatsservice/TCPConnection.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CleanService/whatsservice/client.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/server/ChatApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/server/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/server/NetworkConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/server/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/server/server.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/whatsservice/ChatApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/whatsservice/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/whatsservice/Stafff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/whatsservice/TCPConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/whatsservice/client.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CleanService/cleanbutton/PackageData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CleanService/notes/NotesApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CleanService/notes/NotesController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CleanService/notes/notes.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cleanbutton/PackageData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notes/NotesApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notes/NotesController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notes/notes.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gittest" beforeDir="false" afterPath="$PROJECT_DIR$/gittest" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/CleanService/cleanbutton/AddController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CleanService/cleanbutton/AddController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CleanService/sample/MainPageController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CleanService/sample/Server.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CleanService/sample/SignUpController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CleanService/sample/SignUpController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CleanService/sample/TCPConnection$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CleanService/sample/TCPConnection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CleanService/sample/TCPConnectionListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CleanService/sample/cleanservice.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CleanService/sample/cleanservice.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CleanService/client/AddServiceController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CleanService/client/AddServiceController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CleanService/sample/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CleanService/sample/HomeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CleanService/sample/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CleanService/sample/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/CleanService/sample/homepage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CleanService/sample/homepage.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CleanService/serviceapp/CleanService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CleanService/serviceapp/HomeController.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cleanbutton/AddController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cleanbutton/AddController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/MainPageController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/Server.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/SignUpController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/SignUpController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/TCPConnection.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/TCPConnectionListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/cleanservice.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/cleanservice.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/client/AddServiceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/AddServiceController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sample/homepage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/homepage.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serviceapp/CleanService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/CleanService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serviceapp/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/HomeController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,8 +80,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="FxmlFile" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -153,7 +125,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dynamic.classpath" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/server" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
@@ -170,7 +142,7 @@
       <recent name="sockets" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ChatApp">
+  <component name="RunManager" selected="Application.Main">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -254,13 +226,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Server (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cleanbutton.Server" />
+    <configuration name="NotesApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="notes.NotesApp" />
       <module name="CleanService" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cleanbutton.*" />
+          <option name="PATTERN" value="notes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -268,13 +240,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sample.Server" />
+    <configuration name="Server (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cleanbutton.Server" />
       <module name="CleanService" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sample.*" />
+          <option name="PATTERN" value="cleanbutton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -321,9 +293,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NotesApp" />
         <item itemvalue="Application.ChatApp" />
         <item itemvalue="Application.ChatApp (1)" />
-        <item itemvalue="Application.Server (2)" />
         <item itemvalue="Application.Server (1)" />
         <item itemvalue="Application.Customer" />
       </list>
@@ -366,18 +338,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="0" y="90" width="814" height="722" key="#Intentions/0.0.1536.824@0.0.1536.824" timestamp="1586969680492" />
-    <state x="149" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587301439941">
+    <state x="149" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588691375166">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="149" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1587301439941" />
+    <state x="149" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1588691375166" />
     <state x="702" y="223" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588348884629">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="702" y="223" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1588348884629" />
-    <state x="985" y="114" key="#com.intellij.ide.util.MemberChooser" timestamp="1588615628345">
+    <state x="985" y="114" key="#com.intellij.ide.util.MemberChooser" timestamp="1589974463000">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="985" y="114" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1588615628345" />
+    <state x="985" y="114" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1589974463000" />
     <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588617911568">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -386,10 +358,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="435" y="11" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1588500858118" />
-    <state x="240" y="125" key="DBNavigator.DatasetFilterDialog" timestamp="1588177116327">
+    <state x="240" y="125" key="DBNavigator.DatasetFilterDialog" timestamp="1588868301479">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="240" y="125" key="DBNavigator.DatasetFilterDialog/0.0.1536.824@0.0.1536.824" timestamp="1588177116327" />
+    <state x="240" y="125" key="DBNavigator.DatasetFilterDialog/0.0.1536.824@0.0.1536.824" timestamp="1588868301479" />
     <state x="663" y="287" key="DBNavigator.DatasetRecordEditorDialog" timestamp="1588177587242">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -414,58 +386,58 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="451" y="157" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588176850755" />
-    <state width="1067" height="133" key="GridCell.Tab.0.bottom" timestamp="1588620106780">
+    <state width="1113" height="145" key="GridCell.Tab.0.bottom" timestamp="1589980844252">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1067" height="133" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588620106780" />
-    <state width="1067" height="133" key="GridCell.Tab.0.center" timestamp="1588620106780">
+    <state width="1113" height="145" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589980844252" />
+    <state width="1113" height="145" key="GridCell.Tab.0.center" timestamp="1589980844252">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1067" height="133" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588620106780" />
-    <state width="1067" height="133" key="GridCell.Tab.0.left" timestamp="1588620106780">
+    <state width="1113" height="145" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589980844252" />
+    <state width="1113" height="145" key="GridCell.Tab.0.left" timestamp="1589980844252">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1067" height="133" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588620106780" />
-    <state width="1067" height="133" key="GridCell.Tab.0.right" timestamp="1588620106780">
+    <state width="1113" height="145" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589980844252" />
+    <state width="1113" height="145" key="GridCell.Tab.0.right" timestamp="1589980844252">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1067" height="133" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588620106780" />
-    <state width="1223" height="236" key="GridCell.Tab.1.bottom" timestamp="1588617541868">
+    <state width="1113" height="145" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589980844252" />
+    <state width="1223" height="236" key="GridCell.Tab.1.bottom" timestamp="1588620708127">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1223" height="236" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588617541868" />
-    <state width="1223" height="236" key="GridCell.Tab.1.center" timestamp="1588617541868">
+    <state width="1223" height="236" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588620708127" />
+    <state width="1223" height="236" key="GridCell.Tab.1.center" timestamp="1588620708127">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1223" height="236" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1588617541868" />
-    <state width="1223" height="236" key="GridCell.Tab.1.left" timestamp="1588617541867">
+    <state width="1223" height="236" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1588620708126" />
+    <state width="1223" height="236" key="GridCell.Tab.1.left" timestamp="1588620708126">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1223" height="236" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1588617541867" />
-    <state width="1223" height="236" key="GridCell.Tab.1.right" timestamp="1588617541868">
+    <state width="1223" height="236" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1588620708126" />
+    <state width="1223" height="236" key="GridCell.Tab.1.right" timestamp="1588620708127">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1223" height="236" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1588617541868" />
-    <state x="227" y="0" key="SettingsEditor" timestamp="1587306294499">
+    <state width="1223" height="236" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1588620708127" />
+    <state x="181" y="42" width="1038" height="756" key="SettingsEditor" timestamp="1588869754718">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="227" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587306294499" />
+    <state x="181" y="42" width="1038" height="756" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1588869754718" />
     <state width="200" height="160" key="TextEditor.userName" timestamp="1588177591021">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="200" height="160" key="TextEditor.userName/0.0.1536.824@0.0.1536.824" timestamp="1588177591021" />
-    <state x="593" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1588608582011">
+    <state x="593" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1589973577396">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="593" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1588608582011" />
+    <state x="593" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1589973577396" />
     <state x="417" y="340" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588500994161">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="417" y="340" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1588500994161" />
-    <state x="349" y="115" key="new project wizard" timestamp="1588587637299">
+    <state x="207" y="50" key="new project wizard" timestamp="1588956844431">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="349" y="115" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1588587637299" />
+    <state x="207" y="50" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1588956844431" />
     <state x="720" y="37" key="refactoring.ChangeSignatureDialog" timestamp="1588354093269">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

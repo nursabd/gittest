@@ -57,7 +57,7 @@ public class HomeController {
             Open("/cleanbutton/cleanservice.fxml");
         });
         HistoryButton.setOnAction(event -> {
-            Open("/server/server.fxml");
+            Open("/notes/notes.fxml");
         });
 
 
