@@ -4,16 +4,14 @@ public class Staff {
     private String name;
     private String work;
     private int salary;
-    private String city;
 
     public Staff(String name, String work, int salary, String city) {
         this.name = name;
         this.work = work;
         this.salary = salary;
-        this.city = city;
     }
 
-    public Staff() {
+    public Staff(String name, String work, String salary) {
     }
 
     public String getName() {
@@ -40,11 +38,4 @@ public class Staff {
         this.salary = salary;
     }
 
-    public String getCity() {
-        return city;
-    }
-
-    public void setCity(String city) {
-        this.city = city;
-    }
 }

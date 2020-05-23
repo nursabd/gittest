@@ -13,6 +13,8 @@ import javafx.scene.control.ChoiceBox;
 import javafx.scene.control.ComboBox;
 import javafx.scene.control.TextField;
 import javafx.stage.Stage;
+import sample.DatabaseHandler;
+import sample.User;
 
 
 public class AddController {
@@ -36,13 +38,13 @@ public class AddController {
     private Button Back;
 
     @FXML
-    private TextField name;
+    private TextField name1;
 
     @FXML
-    private TextField work;
+    private TextField work1;
 
     @FXML
-    private TextField salary;
+    private TextField salary1;
 
     @FXML
     private ComboBox<String> city;
@@ -64,9 +66,22 @@ public class AddController {
         HistoryButton.setOnAction(event -> {
             OpenContact("/notes/notes.fxml");
         });
+        AddButton.setOnAction(event -> {
+            UpnewStaff();
+
+        });
 
 
 
+    }
+
+    private void UpnewStaff() {
+        ListController dbHandler = new ListController();
+        String name = name1.getText();
+        String work = work1.getText();
+        String salary = salary1.getText();
+        Staff staff = new Staff(name, work, salary);
+        dbHandler.Liststaff(staff);
     }
 
     private void OpenContact(String p) {

@@ -2,27 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="SECOND COMMIT">
-      <change afterPath="$PROJECT_DIR$/notes.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CleanService/cleanbutton/PackageData.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CleanService/notes/NotesApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CleanService/notes/NotesController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CleanService/notes/notes.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cleanbutton/PackageData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/notes/NotesApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/notes/NotesController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/notes/notes.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cleanbutton/Configs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cleanbutton/Const.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CleanService/cleanbutton/AddController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CleanService/cleanbutton/AddController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CleanService/client/AddServiceController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CleanService/client/AddServiceController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CleanService/sample/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CleanService/sample/HomeController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CleanService/sample/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CleanService/sample/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CleanService/sample/homepage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CleanService/sample/homepage.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cleanbutton/AddController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cleanbutton/AddController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/client/AddServiceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/AddServiceController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/HomeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/homepage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/homepage.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cleanbutton/ListController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cleanbutton/ListController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cleanbutton/Staff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cleanbutton/Staff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cleanbutton/cleanservice.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/cleanbutton/cleanservice.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,6 +111,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dynamic.classpath" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/server" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -132,14 +120,15 @@
     <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\User\IdeaProjects\CleanService\src\whatsservice" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="check" />
+      <recent name="sockets" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\User\IdeaProjects\CleanService\src\server" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="sockets" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\CleanService\src\whatsservice" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Main">
@@ -196,13 +185,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Customer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="client.Customer" />
+    <configuration name="CheckersApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="check.CheckersApp" />
       <module name="CleanService" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="client.*" />
+          <option name="PATTERN" value="check.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -293,11 +282,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NotesApp" />
+        <item itemvalue="Application.CheckersApp" />
         <item itemvalue="Application.ChatApp" />
         <item itemvalue="Application.ChatApp (1)" />
+        <item itemvalue="Application.NotesApp" />
         <item itemvalue="Application.Server (1)" />
-        <item itemvalue="Application.Customer" />
       </list>
     </recent_temporary>
   </component>
@@ -358,10 +347,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="435" y="11" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1588500858118" />
-    <state x="240" y="125" key="DBNavigator.DatasetFilterDialog" timestamp="1588868301479">
+    <state x="255" y="175" key="DBNavigator.DatasetFilterDialog" timestamp="1590209631245">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="240" y="125" key="DBNavigator.DatasetFilterDialog/0.0.1536.824@0.0.1536.824" timestamp="1588868301479" />
+    <state x="255" y="175" key="DBNavigator.DatasetFilterDialog/0.0.1536.824@0.0.1536.824" timestamp="1590209631245" />
     <state x="663" y="287" key="DBNavigator.DatasetRecordEditorDialog" timestamp="1588177587242">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -386,22 +375,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="451" y="157" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588176850755" />
-    <state width="1113" height="145" key="GridCell.Tab.0.bottom" timestamp="1589980844252">
+    <state width="838" height="145" key="GridCell.Tab.0.bottom" timestamp="1590211537695">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1113" height="145" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589980844252" />
-    <state width="1113" height="145" key="GridCell.Tab.0.center" timestamp="1589980844252">
+    <state width="838" height="145" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590211537695" />
+    <state width="838" height="145" key="GridCell.Tab.0.center" timestamp="1590211537694">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1113" height="145" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589980844252" />
-    <state width="1113" height="145" key="GridCell.Tab.0.left" timestamp="1589980844252">
+    <state width="838" height="145" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590211537694" />
+    <state width="838" height="145" key="GridCell.Tab.0.left" timestamp="1590211537694">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1113" height="145" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589980844252" />
-    <state width="1113" height="145" key="GridCell.Tab.0.right" timestamp="1589980844252">
+    <state width="838" height="145" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590211537694" />
+    <state width="838" height="145" key="GridCell.Tab.0.right" timestamp="1590211537694">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1113" height="145" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589980844252" />
+    <state width="838" height="145" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590211537694" />
     <state width="1223" height="236" key="GridCell.Tab.1.bottom" timestamp="1588620708127">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -426,10 +415,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="200" height="160" key="TextEditor.userName/0.0.1536.824@0.0.1536.824" timestamp="1588177591021" />
-    <state x="593" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1589973577396">
+    <state x="969" y="209" key="chooseDestDirectoryDialog" timestamp="1590208859175">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="593" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1589973577396" />
+    <state x="969" y="209" key="chooseDestDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1590208859175" />
+    <state x="593" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1590208085248">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="593" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1590208085248" />
     <state x="417" y="340" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588500994161">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
